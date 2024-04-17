@@ -3,5 +3,6 @@ A simple website created for the student community, Tamilske Studerende i Odense
 **Live demo:** https://tsodense.vercel.app/
 
 ## Contributors
-Lathes Linganathan - UI/UX design
-Srivarsan Gnanachandran - Web development
+- **Lathes Linganathan** - UI/UX design
+
+- **Srivarsan Gnanachandran** - Web development
